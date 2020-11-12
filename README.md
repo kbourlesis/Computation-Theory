@@ -16,13 +16,13 @@ Example of alphabet file:
 0 0 0 // Line 11 example. 0 0 0 means, if automaton is in state 0 (q0) with 0 as input it will stay to state 0 (q0)
 
 1 1 2 // Line 12 example. 1 1 2 means, if automaton is in state 1 (q1) with 1 as input it will move to state 2 (q2)
-</pre>
 
 1 0 0
 
 2 1 2
 
 2 0 2
+</pre>
 
 Warning 1: Due to the different line endings between linux and windows, alphabet files should be saved based on linux line ending otherwise the program will not have the expected results.
 
