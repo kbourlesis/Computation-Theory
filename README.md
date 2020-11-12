@@ -3,13 +3,13 @@ This code takes an alphabet as input and creates a Deterministic Finite Automato
 
 Example of alphabet file:
 
-3      // Number of states
+3 // Number of states
 
-0 1    // Symbols could be more or less than the given ones
+0 1 // Symbols could be more or less than the given ones
 
-0     // Start state. 0 represents q0
+0 // Start state. 0 represents q0
 
-0 1   // Final states q0 and q1, could be more or less than the given ones
+0 1 // Final states q0 and q1, could be more or less than the given ones
 
 0 1 1 // Lines 10-15 are the transitions. For this line 0 is current state, 1 is incoming input and 1 is next state
 
