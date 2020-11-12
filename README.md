@@ -7,7 +7,7 @@ Example of alphabet file:
 
 0 1   // Symbols could be more or less than the given ones
 
-0     // Start state. 0 represents q0
+0     // Start state. 0 represents q0. Any state could be a start state
 
 0 1   // Final states q0 and q1, could be more or less than the given ones
 
