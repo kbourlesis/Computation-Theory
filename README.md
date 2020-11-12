@@ -26,4 +26,4 @@ Example of alphabet file:
 
 Warning 1: Due to the different line endings between linux and windows, alphabet files should be saved based on linux line ending otherwise the program will not have the expected results.
 
-Warning 2: The alphabet file should NOT contain any fewer or more spaces and line break characters than the existing ones because that way it will misread the data.
+Warning 2: The alphabet file should NOT contain any fewer or more spaces and line break characters between characters and lines, because that way it will misread the data.
